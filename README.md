@@ -1,4 +1,4 @@
-# video_player
+# handy_player
 ※ビルドするためにenvファイルが必要です。
 
 ## 機能
